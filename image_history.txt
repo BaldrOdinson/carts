@@ -1,0 +1,28 @@
+IMAGE               CREATED             CREATED BY                                      SIZE                COMMENT
+9b7e73d73fc5        12 months ago       sh                                              47.8MB              
+<missing>           12 months ago       /bin/sh -c #(nop)  CMD ["mvn"]                  0B                  
+<missing>           12 months ago       /bin/sh -c #(nop)  ENTRYPOINT ["/usr/local/b…   0B                  
+<missing>           12 months ago       /bin/sh -c #(nop) COPY file:b3fc14e8337e0079…   327B                
+<missing>           12 months ago       /bin/sh -c #(nop) COPY file:fb726a12bbbf8ff5…   1.16kB              
+<missing>           12 months ago       /bin/sh -c #(nop)  ENV MAVEN_CONFIG=/root/.m2   0B                  
+<missing>           12 months ago       /bin/sh -c #(nop)  ENV MAVEN_HOME=/usr/share…   0B                  
+<missing>           12 months ago       |4 BASE_URL=https://apache.osuosl.org/maven/…   10.7MB              
+<missing>           12 months ago       /bin/sh -c #(nop)  ARG BASE_URL=https://apac…   0B                  
+<missing>           12 months ago       /bin/sh -c #(nop)  ARG SHA=ce50b1c91364cb77e…   0B                  
+<missing>           12 months ago       /bin/sh -c #(nop)  ARG USER_HOME_DIR=/root      0B                  
+<missing>           12 months ago       /bin/sh -c #(nop)  ARG MAVEN_VERSION=3.5.4      0B                  
+<missing>           12 months ago       /bin/sh -c /var/lib/dpkg/info/ca-certificate…   355kB               
+<missing>           12 months ago       /bin/sh -c set -ex;   if [ ! -d /usr/share/m…   348MB               
+<missing>           12 months ago       /bin/sh -c #(nop)  ENV CA_CERTIFICATES_JAVA_…   0B                  
+<missing>           12 months ago       /bin/sh -c #(nop)  ENV JAVA_DEBIAN_VERSION=8…   0B                  
+<missing>           12 months ago       /bin/sh -c #(nop)  ENV JAVA_VERSION=8u181       0B                  
+<missing>           12 months ago       /bin/sh -c #(nop)  ENV JAVA_HOME=/docker-jav…   0B                  
+<missing>           12 months ago       /bin/sh -c ln -svT "/usr/lib/jvm/java-8-open…   33B                 
+<missing>           12 months ago       /bin/sh -c {   echo '#!/bin/sh';   echo 'set…   87B                 
+<missing>           12 months ago       /bin/sh -c #(nop)  ENV LANG=C.UTF-8             0B                  
+<missing>           12 months ago       /bin/sh -c apt-get update && apt-get install…   2.21MB              
+<missing>           12 months ago       /bin/sh -c apt-get update && apt-get install…   142MB               
+<missing>           12 months ago       /bin/sh -c set -ex;  if ! command -v gpg > /…   7.8MB               
+<missing>           12 months ago       /bin/sh -c apt-get update && apt-get install…   23.2MB              
+<missing>           12 months ago       /bin/sh -c #(nop)  CMD ["bash"]                 0B                  
+<missing>           12 months ago       /bin/sh -c #(nop) ADD file:58d5c21fcabcf1eec…   101MB               
